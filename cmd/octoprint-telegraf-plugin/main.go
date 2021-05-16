@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	_ "github.com/battlebas/octoprint-telegraf-plugin/plugins/inputs/octoprint"
+	_ "github.com/marianob85/octoprint-telegraf-plugin/plugins/inputs/octoprint"
 
 	"github.com/influxdata/telegraf/plugins/common/shim"
 )

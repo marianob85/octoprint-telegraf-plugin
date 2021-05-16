@@ -1,4 +1,4 @@
-module github.com/battlebas/octoprint-telegraf-plugin
+module github.com/marianob85/octoprint-telegraf-plugin
 
 go 1.14
 
